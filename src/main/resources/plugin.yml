@@ -1,0 +1,4 @@
+name: NakedProtect
+version: '${version}'
+main: org.srino.nakedprotect.NakedProtect
+api-version: '1.20'
